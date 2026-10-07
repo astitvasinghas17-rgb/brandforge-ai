@@ -14,8 +14,6 @@
 [![TinyFish](https://img.shields.io/badge/Powered_by-TinyFish_Fetch_%2B_Search-7c3aed?style=for-the-badge)](https://tinyfish.ai)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
-**Built for the TinyFish TechnicalStudent Bounty Drop 001 — Brand Guide Generator**
-
 [✨ Live Demo](http://localhost:3000) · [📖 API Docs](http://localhost:3000/api-docs) · [🧪 Examples](http://localhost:3000/examples) · [🐞 Report an Issue](https://github.com/astitvasinghas17-rgb/BrandForge/issues)
 
 </div>
